@@ -58,3 +58,30 @@ body {
     color: white;
     text-decoration: none;
 }
+/* ----------------------About Us Section------------------------------*/
+#team {
+    padding: 80px 0;
+}
+.teams-img{
+    width: 100px;
+    margin-top: 20px; 
+}
+.teams {
+    padding: 20px;
+}
+
+.teams h4 {
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+.title::before {
+    content: '';
+    background: #7b1798;
+    height: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(63px);
+}
