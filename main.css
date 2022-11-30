@@ -118,3 +118,26 @@ body {
     position: relative;
     left: 650px;
 }
+/* ------------------Website Project Information Section ------------------------- */
+
+
+
+.h3text {
+        margin-bottom: 150px;
+        padding: 10px;
+        text-align: center;
+        position: relative;
+        left:150px;
+        position: relative;
+        top:120px;
+        font-size: 18px;
+}
+.chart-png {
+    display: block;
+    margin-right: 100px;
+    float: right;
+    position: relative;
+    left: 275px;
+    position: relative;
+    bottom: 450px;
+}
